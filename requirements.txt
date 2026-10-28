@@ -1,0 +1,10 @@
+chainlit>=2.12
+langchain>=1.4
+langchain-core>=1.7
+langgraph>=1.2
+python-dotenv>=1.0
+# Pick the provider(s) you will use:
+langchain-ollama>=1.1      # free, runs locally (https://ollama.com)
+langchain-openai>=1.7      # OpenAI
+langchain-anthropic>=1.7   # Anthropic Claude
+pytest>=8

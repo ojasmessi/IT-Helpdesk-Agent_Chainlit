@@ -1,0 +1,8 @@
+.env
+.venv/
+tickets.db
+__pycache__/
+.chainlit/
+.files/
+.pytest_cache/
+.vscode/
